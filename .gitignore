@@ -72,3 +72,24 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Packaged/Windows.7z
+Packaged/Windows/ABC/Content/Paks/ABC-Windows.pak
+Packaged/Windows/ABC/Content/Paks/ABC-Windows.ucas
+Packaged/Windows/ABC/Content/Paks/ABC-Windows.utoc
+Packaged/Windows/ABC/Content/Paks/global.ucas
+Packaged/Windows/ABC/Content/Paks/global.utoc
+Packaged/Windows/ABC/Content/Splash/Splash.bmp
+Packaged/Windows/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CommonPROFILE_x64.pdb
+Packaged/Windows/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3CookingPROFILE_x64.pdb
+Packaged/Windows/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PhysX3PROFILE_x64.pdb
+Packaged/Windows/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxFoundationPROFILE_x64.pdb
+Packaged/Windows/Engine/Binaries/ThirdParty/PhysX3/Win64/VS2015/PxPvdSDKPROFILE_x64.pdb
+Packaged/Windows/Engine/Binaries/Win64/UnrealGame.pdb
+Packaged/Windows/Engine/Content/SlateDebug/Fonts/LastResort.tps
+Packaged/Windows/Engine/Content/SlateDebug/Fonts/LastResort.ttf
+Packaged/Windows/Engine/Extras/GPUDumpViewer/GPUDumpViewer.html
+Packaged/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat
+Packaged/Windows/Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh
+Packaged/Windows/Manifest_DebugFiles_Win64.txt
+Packaged/Windows/Manifest_NonUFSFiles_Win64.txt
+Packaged/Windows/Manifest_UFSFiles_Win64.txt
